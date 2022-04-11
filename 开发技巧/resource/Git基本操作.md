@@ -24,7 +24,7 @@ $ ssh-keygen -t rsa -C "你的邮箱"
 一路回车即可生成 `RSA` 加密的 `ssh key`。一般情况下，在 `C:\Users\Administrator\.ssh` 目录下查看生成的密钥。
 `Github` 在 Setting 中添加密钥后，即可使用 `ssh url` 克隆仓库。
 
-![image-20220411153937897](..\images\开发技巧\image-20220411153937897.png)
+![image-20220411153937897](https://github.com/dizuncainiao/web-notes/blob/main/%E5%BC%80%E5%8F%91%E6%8A%80%E5%B7%A7/images/%E5%BC%80%E5%8F%91%E6%8A%80%E5%B7%A7/image-20220411153937897.png)
 
 
 
