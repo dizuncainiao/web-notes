@@ -7,4 +7,6 @@ WebStorm 是 JetBrains 公司旗下一款 JavaScript 开发工具。已经被广
 - 下载 [webstorm 任意历史版本](https://www.jetbrains.com.cn/webstorm/download/other.html) 
 
 ## 破解
-使用 **zhile** 大神的 [Jetbrains 系列产品重置试用方法](https://zhile.io/2020/11/18/jetbrains-eval-reset-deprecated.html) 来实现 “破解”
+使用 **zhile** 大神的 [Jetbrains 系列产品重置试用方法](https://zhile.io/2020/11/18/jetbrains-eval-reset-deprecated.html) 来实现 “破解”。提示：下载 **2021.2.2** 版本直接傻瓜破解
+
+
